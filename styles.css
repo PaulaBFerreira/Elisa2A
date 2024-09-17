@@ -1,0 +1,24 @@
+body {
+color: darkred;
+background: black;
+margin: 0px;
+font-family: "Playfair Display", serif;
+margin-bottom: 50px;
+}
+
+header {
+border-bottom: solid 10px rgb(255, 0, 0);
+padding: 20px;
+font-size: 32px;
+color: black;
+}
+
+.chamada {
+background: rgb(0, 0, 0);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+
+
+}
